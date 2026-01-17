@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "path": "pages/splash/splash",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/chat-password/chat-password",
+      "style": {
+        "navigationBarTitleText": "聊天室口令"
+      }
+    },
+    {
+      "path": "pages/chat/chat",
+      "style": {
+        "navigationBarTitleText": "聊天室",
+        "navigationBarBackgroundColor": "#323233",
+        "navigationBarTextStyle": "white",
+        "navigationBarRightButtonText": "",
+        "navigationBarRightButtonIcon": "/static/settings.png"
+      }
+    },
+    {
+      "path": "pages/settings/settings",
+      "style": {
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/admin/admin",
+      "style": {
+        "navigationBarTitleText": "管理员中心"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarBackgroundColor": "#323233",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Chat-X",
+    "backgroundColor": "#F8F8F8"
+  }
+}
