@@ -168,6 +168,11 @@
 3. SQLite数据库适合小型应用，如需高并发可考虑更换为MySQL等数据库
 4. 开发环境下可使用npm run dev启动后端，生产环境建议使用PM2管理
 
+## 关于部署
+
+关于如何部署本项目指引详见DEPLOYMENT_GUIDE.md
+
+
 ## 许可证
 
 MIT License
